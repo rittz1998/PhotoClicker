@@ -1,3 +1,6 @@
+# Name: Riddhiben Rathod
+# Student ID: 200465334
+# Course: Masters in Computer Science(Coursework)
 # PhotoApp: PhotoClicker
 ## A simple Photo clicking application
 
